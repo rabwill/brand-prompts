@@ -1,7 +1,7 @@
 ---
 title: Website banner, ceramic workshop
 model: designer-image-v2
-aspect_ratio: 21:9
+aspect_ratio: "21:9"
 style_tags: [craft, authentic, documentary, warm]
 use_case: banner
 approved: true

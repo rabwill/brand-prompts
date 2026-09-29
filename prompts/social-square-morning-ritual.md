@@ -1,7 +1,7 @@
 ---
 title: Social post, morning ritual flat lay
 model: designer-image-v2
-aspect_ratio: 1:1
+aspect_ratio: "1:1"
 style_tags: [flat-lay, cozy, natural-light, lifestyle]
 use_case: social
 approved: true

@@ -1,7 +1,7 @@
 ---
 title: Lifestyle image, gift guide
 model: designer-image-v2
-aspect_ratio: 4:5
+aspect_ratio: "4:5"
 style_tags: [gifting, warm, lifestyle, editorial]
 use_case: social
 approved: true

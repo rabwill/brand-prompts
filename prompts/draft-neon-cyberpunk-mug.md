@@ -1,7 +1,7 @@
 ---
 title: DRAFT - Neon cyberpunk mug concept
 model: designer-image-v2
-aspect_ratio: 16:9
+aspect_ratio: "16:9"
 style_tags: [neon, experimental, futuristic]
 use_case: hero
 approved: false

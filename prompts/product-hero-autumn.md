@@ -1,7 +1,7 @@
 ---
 title: Product hero shot, autumn campaign
 model: designer-image-v2
-aspect_ratio: 16:9
+aspect_ratio: "16:9"
 style_tags: [warm, studio-lighting, minimal, autumn]
 use_case: hero
 approved: true

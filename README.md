@@ -21,6 +21,10 @@ Used to test a Microsoft 365 Copilot connector that ingests GitHub repository fi
 | `approved` | true / false | Connector should only ingest `true` |
 | `last_reviewed` | 2026-09-01 | |
 
+## YAML gotcha
+
+Always quote aspect ratios (`aspect_ratio: "16:9"`). Unquoted, YAML reads `16:9` as a number (969), not text.
+
 ## Testing tip
 
 `prompts/draft-neon-cyberpunk-mug.md` is marked `approved: false`. It should NOT appear in Copilot results if your filter works.

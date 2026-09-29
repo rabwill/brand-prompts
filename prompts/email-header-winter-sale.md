@@ -1,7 +1,7 @@
 ---
 title: Email header, winter sale
 model: designer-image-v2
-aspect_ratio: 3:1
+aspect_ratio: "3:1"
 style_tags: [seasonal, cool-tones, minimal, festive]
 use_case: email
 approved: true
